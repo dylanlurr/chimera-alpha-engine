@@ -1,2 +1,3 @@
-# chimera-alpha-engine
-A quantitative swing-trading framework fusing Fintech equities and Crypto markets using Hybrid Deep Learning (TFT &amp; FinBERT) and technical momentum strategies.
+# Chimera Alpha Engine
+
+**Hybrid Swing Trading Bot** - A quantitative swing-trading framework fusing Fintech equities and Crypto markets using Hybrid Deep Learning (TFT & FinBERT) and technical momentum strategies.
